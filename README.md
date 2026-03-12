@@ -1,0 +1,2 @@
+# Localbox-Miner
+Localbox Miner
